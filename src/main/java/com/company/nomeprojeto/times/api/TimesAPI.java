@@ -32,7 +32,7 @@ public class TimesAPI {
     @PutMapping("/{timeId}")
     @ResponseBody
     public TimeDTO atualizar(@PathVariable("timeId") Long timeId,
-                               @RequestBody TimeDTO timeDTO) {
+                             @RequestBody TimeDTO timeDTO) {
         return timesFacade.atualizar(timeDTO, timeId);
     }
 

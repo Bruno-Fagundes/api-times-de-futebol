@@ -42,7 +42,7 @@ Para cada time, armazenamos:
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/Bruno-Fagundes/api-java-spring-boot.git
+git clone https://github.com/Bruno-Fagundes/api-times-futebol.git
 ```
 
 2. Entre na pasta do projeto:

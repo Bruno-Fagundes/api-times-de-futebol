@@ -47,7 +47,7 @@ git clone https://github.com/Bruno-Fagundes/api-times-futebol.git
 
 2. Entre na pasta do projeto:
 ```bash
-cd api-java-spring-boot
+cd api-times-futebol
 ```
 
 3. Compile:
